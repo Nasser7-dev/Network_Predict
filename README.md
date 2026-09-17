@@ -1,2 +1,2 @@
-# AI_Projects
+# Network_Predict
 Machine learning system for predicting reported Internet connection quality and analyzing network quality patterns in Ngaoundéré, Cameroon.
